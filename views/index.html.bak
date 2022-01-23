@@ -7,11 +7,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta property="og:image" content="https://e.top4top.io/p_2010lz9211.jpg" /> 
 
-<meta property="og:title" content="GuraBotz - APIs" /> <meta property="og:description" content="Made By Me ᴹᴿ᭄ArulGanzㄙ "/> 
+<meta property="og:title" content="Alphabot - APIs" /> <meta property="og:description" content="Made By Me ᴹᴿ᭄zeeoneㄙ "/> 
 
 <link rel="shortcut icon" href="https://e.top4top.io/p_2010lz9211.jpg" type="image/x-icon" />
 
-  <title>GuraBotz - Rest Api's</title>
+  <title>Alphabot - Rest Api's</title>
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="css/ruang-admin.min.css" rel="stylesheet">
@@ -225,7 +225,7 @@ button1:hover {
         <div class="sidebar-brand-icon">
         	<img src="https://e.top4top.io/p_2010lz9211.jpg">
         </div>
-        <div class="sidebar-brand-text mx-3">GuraBotz - Api</div>
+        <div class="sidebar-brand-text mx-3">Alphabot - Api</div>
       </a>
       <hr class="sidebar-divider my-0">
       <li class="nav-item active">
@@ -246,16 +246,16 @@ button1:hover {
         <div id="collapseBootstrap" class="collapse" aria-labelledby="headingBootstrap" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Media Features</h6>
-            <a class="collapse-item" href="api/yutub/video?url=https://youtu.be/v0ej6EJGqos&apikey=GuraBotz">YouTube Video</a>
-            <a class="collapse-item" href="api/yutub/audio?url=https://youtu.be/v0ej6EJGqos&apikey=GuraBotz">YouTube Audio</a>
-            <a class="collapse-item" href="api/yutub/search?video=Ustadz Abdul Somad&apikey=GuraBotz">YouTube Search</a>
-            <a class="collapse-item" href="api/fbdown/?url=MASUKIN_URL&apikey=GuraBotz">Facebook</a>
-            <a class="collapse-item" href="api/tiktod/?url=MASUKIN_URL&apikey=GuraBotz">Tiktok</a>
+            <a class="collapse-item" href="api/yutub/video?url=https://youtu.be/v0ej6EJGqos&apikey=Alphabot">YouTube Video</a>
+            <a class="collapse-item" href="api/yutub/audio?url=https://youtu.be/v0ej6EJGqos&apikey=Alphabot">YouTube Audio</a>
+            <a class="collapse-item" href="api/yutub/search?video=Ustadz Abdul Somad&apikey=Alphabot">YouTube Search</a>
+            <a class="collapse-item" href="api/fbdown/?url=MASUKIN_URL&apikey=Alphabot">Facebook</a>
+            <a class="collapse-item" href="api/tiktod/?url=MASUKIN_URL&apikey=Alphabot">Tiktok</a>
             <h6 class="collapse-header">Stalker Features</h6>
-            <a class="collapse-item" href="api/tiktod/stalk/?username=MASUKIN_USERNAME&apikey=GuraBotz">Tiktok Stalk</a>
-            <a class="collapse-item" href="api/ig/stalk?username=BotWhatsapp12&apikey=GuraBotz">Instagram Stalk</a>
-            <a class="collapse-item" href="api/github/stalk?username=BotWhatsapp12&apikey=GuraBotz">Github Stalk</a>
-            <a class="collapse-item" href="api/repository/stalk?username=api-arulganz&apikey=GuraBotz">Repository Stalk</a>
+            <a class="collapse-item" href="api/tiktod/stalk/?username=MASUKIN_USERNAME&apikey=Alphabot">Tiktok Stalk</a>
+            <a class="collapse-item" href="api/ig/stalk?username=zeeoneofc&apikey=Alphabot">Instagram Stalk</a>
+            <a class="collapse-item" href="api/github/stalk?username=zeeoneofc&apikey=Alphabot">Github Stalk</a>
+            <a class="collapse-item" href="api/repository/stalk?username=api-zeeoneofc&apikey=Alphabot">Repository Stalk</a>
             </div>
         </div>
       </li>
@@ -268,17 +268,17 @@ button1:hover {
         <div id="collapseIslamic" class="collapse" aria-labelledby="headingIslamic" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Islamic Features</h6>
-            <a class="collapse-item" href="api/hadits?kitab=bukhari&nomor=52&apikey=GuraBotz">Hadits Shahih</a>
-            <a class="collapse-item" href="api/quran?surah=1&ayat=2&apikey=GuraBotz">Al Qur'an</a>
-            <a class="collapse-item" href="api/muslim/tahlil?apikey=GuraBotz">Doa Tahlil</a>
-            <a class="collapse-item" href="api/muslim/wirid?apikey=GuraBotz">Doa Wirid</a>
-            <a class="collapse-item" href="api/muslim/asmaulhusna?apikey=GuraBotz">Asmaul Husna</a>
-            <a class="collapse-item" href="api/muslim/doaharian?apikey=GuraBotz">Doa Harian</a>
-            <a class="collapse-item" href="api/muslim/ayatkursi?apikey=GuraBotz">Ayat Kursi</a>
-            <a class="collapse-item" href="api/kisahnabi?nabi=muhammad&apikey=GuraBotz">Kisah Nabi</a>
-            <a class="collapse-item" href="api/muslim/niatshalat?apikey=GuraBotz">Niat Shalat</a>
-            <a class="collapse-item" href="api/muslim/bacaanshalat?apikey=GuraBotz">Bacaan Shalat</a>
-           <!-- <a class="collapse-item" href="api/jadwalshalat?kota=jakartautara&apikey=GuraBotz">Jadwal Shalat</a> -->
+            <a class="collapse-item" href="api/hadits?kitab=bukhari&nomor=52&apikey=Alphabot">Hadits Shahih</a>
+            <a class="collapse-item" href="api/quran?surah=1&ayat=2&apikey=Alphabot">Al Qur'an</a>
+            <a class="collapse-item" href="api/muslim/tahlil?apikey=Alphabot">Doa Tahlil</a>
+            <a class="collapse-item" href="api/muslim/wirid?apikey=Alphabot">Doa Wirid</a>
+            <a class="collapse-item" href="api/muslim/asmaulhusna?apikey=Alphabot">Asmaul Husna</a>
+            <a class="collapse-item" href="api/muslim/doaharian?apikey=Alphabot">Doa Harian</a>
+            <a class="collapse-item" href="api/muslim/ayatkursi?apikey=Alphabot">Ayat Kursi</a>
+            <a class="collapse-item" href="api/kisahnabi?nabi=muhammad&apikey=Alphabot">Kisah Nabi</a>
+            <a class="collapse-item" href="api/muslim/niatshalat?apikey=Alphabot">Niat Shalat</a>
+            <a class="collapse-item" href="api/muslim/bacaanshalat?apikey=Alphabot">Bacaan Shalat</a>
+           <!-- <a class="collapse-item" href="api/jadwalshalat?kota=jakartautara&apikey=Alphabot">Jadwal Shalat</a> -->
           </div>
         </div>
       </li>
@@ -291,11 +291,11 @@ button1:hover {
         <div id="collapseKodepos" class="collapse" aria-labelledby="headingKodepos" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Images Features</h6>
-            <a class="collapse-item" href="api/wallpaper/teknologi?apikey=GuraBotz">Wallpaper Teknologi</a>
-            <a class="collapse-item" href="api/wallpaper/programming?apikey=GuraBotz">Wallpaper Programming</a>
-            <a class="collapse-item" href="api/wallpaper/cyberspace?apikey=GuraBotz">Wallpaper CyberSpace</a>
-            <a class="collapse-item" href="api/wallpaper/muslim?apikey=GuraBotz">Wallpaper Muslim</a>
-            <a class="collapse-item" href="api/wallpaper/pegunungan?apikey=GuraBotz">Wallpaper Mountain View</a>
+            <a class="collapse-item" href="api/wallpaper/teknologi?apikey=Alphabot">Wallpaper Teknologi</a>
+            <a class="collapse-item" href="api/wallpaper/programming?apikey=Alphabot">Wallpaper Programming</a>
+            <a class="collapse-item" href="api/wallpaper/cyberspace?apikey=Alphabot">Wallpaper CyberSpace</a>
+            <a class="collapse-item" href="api/wallpaper/muslim?apikey=Alphabot">Wallpaper Muslim</a>
+            <a class="collapse-item" href="api/wallpaper/pegunungan?apikey=Alphabot">Wallpaper Mountain View</a>
             </div>
             </div>
             </li>
@@ -308,12 +308,12 @@ button1:hover {
         <div id="collapseGithub" class="collapse" aria-labelledby="headingGithub" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Random Features</h6>
-            <a class="collapse-item" href="api/randomquote?apikey=GuraBotz">Quotes</a>
-            <a class="collapse-item" href="api/randomquote/muslim?apikey=GuraBotz">Quotes Islami</a>
-            <a class="collapse-item" href="api/quotes/kanye?apikey=GuraBotz">Quotes Kanye</a>
-            <a class="collapse-item" href="api/random/asmaulhusna?apikey=GuraBotz">Asmaul Husna</a>
-            <a class="collapse-item" href="api/random/meme?apikey=GuraBotz">Meme</a>
-            <a class="collapse-item" href="api/random/wallpaper?apikey=GuraBotz">Wallpaper</a>
+            <a class="collapse-item" href="api/randomquote?apikey=Alphabot">Quotes</a>
+            <a class="collapse-item" href="api/randomquote/muslim?apikey=Alphabot">Quotes Islami</a>
+            <a class="collapse-item" href="api/quotes/kanye?apikey=Alphabot">Quotes Kanye</a>
+            <a class="collapse-item" href="api/random/asmaulhusna?apikey=Alphabot">Asmaul Husna</a>
+            <a class="collapse-item" href="api/random/meme?apikey=Alphabot">Meme</a>
+            <a class="collapse-item" href="api/random/wallpaper?apikey=Alphabot">Wallpaper</a>
           </div>
         </div>
       </li>
@@ -326,10 +326,10 @@ button1:hover {
         <div id="collapseMaker" class="collapse" aria-labelledby="headingMaker" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">TextMaker2D Features</h6>
-            <a class="collapse-item" href="api/maker?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 1</a>
-            <a class="collapse-item" href="api/maker2?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 2</a>
-            <a class="collapse-item" href="api/maker3?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 3</a>
-            <a class="collapse-item" href="api/maker4?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 4</a>
+            <a class="collapse-item" href="api/maker?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 1</a>
+            <a class="collapse-item" href="api/maker2?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 2</a>
+            <a class="collapse-item" href="api/maker3?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 3</a>
+            <a class="collapse-item" href="api/maker4?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 4</a>
           </div>
         </div>
       </li>
@@ -342,11 +342,11 @@ button1:hover {
         <div id="collapseMaker3D" class="collapse" aria-labelledby="headingMaker3D" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">TextMaker3D Features</h6>
-            <a class="collapse-item" href="api/maker3d?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 1</a>
-            <a class="collapse-item" href="api/maker3d/no2?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 2</a>
-            <a class="collapse-item" href="api/maker3d/no3?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 3</a>
-            <a class="collapse-item" href="api/maker3d/no4?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 4</a>
-            <a class="collapse-item" href="api/maker3d/no5?text=Ya Allah Kabulkan DoaKu&apikey=GuraBotz">Maker 5</a>
+            <a class="collapse-item" href="api/maker3d?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 1</a>
+            <a class="collapse-item" href="api/maker3d/no2?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 2</a>
+            <a class="collapse-item" href="api/maker3d/no3?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 3</a>
+            <a class="collapse-item" href="api/maker3d/no4?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 4</a>
+            <a class="collapse-item" href="api/maker3d/no5?text=Ya Allah Kabulkan DoaKu&apikey=Alphabot">Maker 5</a>
           </div>
         </div>
       </li>
@@ -359,8 +359,8 @@ button1:hover {
         <div id="collapseMakerOther" class="collapse" aria-labelledby="headingMakerOther" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">TextMaker Others Features</h6>
-            <a class="collapse-item" href="api/maker/special/transformer?text=Transformer&apikey=GuraBotz">Transformer</a>
-            <a class="collapse-item" href="api/maker/special/epep?text=GuraBotz&apikey=GuraBotz">Sertifikat Epep</a>
+            <a class="collapse-item" href="api/maker/special/transformer?text=Transformer&apikey=Alphabot">Transformer</a>
+            <a class="collapse-item" href="api/maker/special/epep?text=Alphabot&apikey=Alphabot">Sertifikat Epep</a>
           </div>
         </div>
       </li>
@@ -373,20 +373,20 @@ button1:hover {
         <div id="collapseText" class="collapse" aria-labelledby="headingText" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Photooxy Features</h6>
-            <a class="collapse-item" href="api/textmaker?text=halo&text2=hai&theme=glitch&apikey=GuraBotz">Glitch</a>
-            <a class="collapse-item" href="api/textmaker?text=halo&text2=hai&text3=gwganteng&theme=google-suggestion&apikey=GuraBotz">Google Suggestion</a>
-            <a class="collapse-item" href="api/textmaker/game?text=halo&text2=hai&theme=pubg&apikey=GuraBotz">PUBG</a>
-            <a class="collapse-item" href="api/textmaker/game?text=halo&text2=hai&theme=battlefield&apikey=GuraBotz">BattleField</a>
-            <a class="collapse-item" href="api/textmaker/senja?text=GuraBotz&theme=coffee-cup&apikey=GuraBotz">Coffee Cup</a>
-            <a class="collapse-item" href="api/textmaker/senja?text=GuraBotz&theme=coffee-cup2&apikey=GuraBotz">Coffee Cup 2</a>
-            <a class="collapse-item" href="api/textmaker/metallic?text=GuraBotz&theme=neon&apikey=GuraBotz">Neon</a>
-            <a class="collapse-item" href="api/textmaker/metallic?text=GuraBotz&theme=glow&apikey=GuraBotz">Glow</a>
-            <a class="collapse-item" href="api/textmaker/alam?text=GuraBotz&theme=summer&apikey=GuraBotz">Summer</a>
-            <a class="collapse-item" href="api/textmaker/alam?text=GuraBotz&theme=flower&apikey=GuraBotz">Flower</a>
-            <a class="collapse-item" href="api/textmaker/random?text=GuraBotz&theme=text-burn&apikey=GuraBotz">Text Burn</a>
-            <a class="collapse-item" href="api/textmaker/random?text=GuraBotz&theme=art-quote&apikey=GuraBotz">Art Quote</a>
-            <a class="collapse-item" href="api/textmaker/roses?text=GuraBotz&theme=wooden-boarch&apikey=GuraBotz">Wooden Boarch</a>
-            <a class="collapse-item" href="api/textmaker/roses?text=GuraBotz&theme=golden&apikey=GuraBotz">Golden Roses</a>
+            <a class="collapse-item" href="api/textmaker?text=halo&text2=hai&theme=glitch&apikey=Alphabot">Glitch</a>
+            <a class="collapse-item" href="api/textmaker?text=halo&text2=hai&text3=gwganteng&theme=google-suggestion&apikey=Alphabot">Google Suggestion</a>
+            <a class="collapse-item" href="api/textmaker/game?text=halo&text2=hai&theme=pubg&apikey=Alphabot">PUBG</a>
+            <a class="collapse-item" href="api/textmaker/game?text=halo&text2=hai&theme=battlefield&apikey=Alphabot">BattleField</a>
+            <a class="collapse-item" href="api/textmaker/senja?text=Alphabot&theme=coffee-cup&apikey=Alphabot">Coffee Cup</a>
+            <a class="collapse-item" href="api/textmaker/senja?text=Alphabot&theme=coffee-cup2&apikey=Alphabot">Coffee Cup 2</a>
+            <a class="collapse-item" href="api/textmaker/metallic?text=Alphabot&theme=neon&apikey=Alphabot">Neon</a>
+            <a class="collapse-item" href="api/textmaker/metallic?text=Alphabot&theme=glow&apikey=Alphabot">Glow</a>
+            <a class="collapse-item" href="api/textmaker/alam?text=Alphabot&theme=summer&apikey=Alphabot">Summer</a>
+            <a class="collapse-item" href="api/textmaker/alam?text=Alphabot&theme=flower&apikey=Alphabot">Flower</a>
+            <a class="collapse-item" href="api/textmaker/random?text=Alphabot&theme=text-burn&apikey=Alphabot">Text Burn</a>
+            <a class="collapse-item" href="api/textmaker/random?text=Alphabot&theme=art-quote&apikey=Alphabot">Art Quote</a>
+            <a class="collapse-item" href="api/textmaker/roses?text=Alphabot&theme=wooden-boarch&apikey=Alphabot">Wooden Boarch</a>
+            <a class="collapse-item" href="api/textmaker/roses?text=Alphabot&theme=golden&apikey=Alphabot">Golden Roses</a>
           </div>
         </div>
       </li>
@@ -399,8 +399,8 @@ button1:hover {
         <div id="collapseAnime" class="collapse" aria-labelledby="headingAnime" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Anime/Manga Features</h6>
-            <a class="collapse-item" href="api/anime/kusonime?search=planetarian&apikey=GuraBotz">Kusonime</a>
-            <a class="collapse-item" href="api/manga?search=kimetsu no yaiba&apikey=GuraBotz">Manga</a>
+            <a class="collapse-item" href="api/anime/kusonime?search=planetarian&apikey=Alphabot">Kusonime</a>
+            <a class="collapse-item" href="api/manga?search=kimetsu no yaiba&apikey=Alphabot">Manga</a>
           </div>
         </div>
       </li>
@@ -413,16 +413,16 @@ button1:hover {
         <div id="collapseAnime3" class="collapse" aria-labelledby="headingAnime" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Asupan Timeline Features</h6>
-            <a class="collapse-item" href="api/asupan/tiktok?apikey=GuraBotz">Tiktok Random Video</a>
-            <a class="collapse-item" href="api/asupan?apikey=GuraBotz">Asupan</a>
-		<a class="collapse-item" href="api/asupan/cecan?apikey=GuraBotz">Asupan Cecan</a>
+            <a class="collapse-item" href="api/asupan/tiktok?apikey=Alphabot">Tiktok Random Video</a>
+            <a class="collapse-item" href="api/asupan?apikey=Alphabot">Asupan</a>
+		<a class="collapse-item" href="api/asupan/cecan?apikey=Alphabot">Asupan Cecan</a>
 
-            <a class="collapse-item" href="api/asupan/hijaber?apikey=GuraBotz">Asupan Hijaber</a>
-            <a class="collapse-item" href="api/asupan/santuy?apikey=GuraBotz">Asupan Santuy</a>
-            <a class="collapse-item" href="api/asupan/ukty?apikey=GuraBotz">Asupan Ukhty</a>
-            <a class="collapse-item" href="api/asupan/bocil?apikey=GuraBotz">Asupan Bocil</a>
-            <a class="collapse-item" href="api/asupan/ghea?apikey=GuraBotz">Asupan Ghea</a>
-            <a class="collapse-item" href="api/asupan/rikagusriani?apikey=GuraBotz">Asupan Rika</a>
+            <a class="collapse-item" href="api/asupan/hijaber?apikey=Alphabot">Asupan Hijaber</a>
+            <a class="collapse-item" href="api/asupan/santuy?apikey=Alphabot">Asupan Santuy</a>
+            <a class="collapse-item" href="api/asupan/ukty?apikey=Alphabot">Asupan Ukhty</a>
+            <a class="collapse-item" href="api/asupan/bocil?apikey=Alphabot">Asupan Bocil</a>
+            <a class="collapse-item" href="api/asupan/ghea?apikey=Alphabot">Asupan Ghea</a>
+            <a class="collapse-item" href="api/asupan/rikagusriani?apikey=Alphabot">Asupan Rika</a>
           </div>
         </div>
       </li>
@@ -435,27 +435,27 @@ button1:hover {
         <div id="collapseAnime2" class="collapse" aria-labelledby="headingAnime" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">NSFW Features</h6>
-            <a class="collapse-item" href="api/nsfw/ass?apikey=GuraBotz">Ass</a>
-            <a class="collapse-item" href="api/nsfw/ahegao?apikey=GuraBotz">Ahegao</a>
-            <a class="collapse-item" href="api/nsfw/bdsm?apikey=GuraBotz">Bdsm</a>
-            <a class="collapse-item" href="api/nsfw/blowjob?apikey=GuraBotz">Blowjob</a>
-            <a class="collapse-item" href="api/nsfw/cuckold?apikey=GuraBotz">Cuckold</a>
-            <a class="collapse-item" href="api/nsfw/cum?apikey=GuraBotz">Cum</a>
-            <a class="collapse-item" href="api/nsfw/ero?apikey=GuraBotz">Ero</a>
-            <a class="collapse-item" href="api/nsfw/femdom?apikey=GuraBotz">Femdom</a>
-            <a class="collapse-item" href="api/nsfw/foot?apikey=GuraBotz">Foot</a>
-            <a class="collapse-item" href="api/nsfw/gangbang?apikey=GuraBotz">Gangbang</a>
-            <a class="collapse-item" href="api/nsfw/glasses?apikey=GuraBotz">Glasses</a>
-            <a class="collapse-item" href="api/nsfw/hentai?apikey=GuraBotz">Hentai</a>
-            <a class="collapse-item" href="api/nsfw/hentaigif?apikey=GuraBotz">Hentai (GIF)</a>
-            <a class="collapse-item" href="api/nsfw/jahy?apikey=GuraBotz">Jahy</a>
-            <a class="collapse-item" href="api/nsfw/masturbation?apikey=GuraBotz">Masturbation</a>
-            <a class="collapse-item" href="api/nsfw/nsfwNeko?apikey=GuraBotz">Neko</a>
-            <a class="collapse-item" href="api/nsfw/orgy?apikey=GuraBotz">Orgy</a>
-            <a class="collapse-item" href="api/nsfw/panties?apikey=GuraBotz">Panties</a>
-            <a class="collapse-item" href="api/nsfw/pussy?apikey=GuraBotz">Pussy</a>
-            <a class="collapse-item" href="api/nsfw/thighs?apikey=GuraBotz">Thighs</a>
-            <a class="collapse-item" href="api/nsfw/yuri?apikey=GuraBotz">Yuri</a>
+            <a class="collapse-item" href="api/nsfw/ass?apikey=Alphabot">Ass</a>
+            <a class="collapse-item" href="api/nsfw/ahegao?apikey=Alphabot">Ahegao</a>
+            <a class="collapse-item" href="api/nsfw/bdsm?apikey=Alphabot">Bdsm</a>
+            <a class="collapse-item" href="api/nsfw/blowjob?apikey=Alphabot">Blowjob</a>
+            <a class="collapse-item" href="api/nsfw/cuckold?apikey=Alphabot">Cuckold</a>
+            <a class="collapse-item" href="api/nsfw/cum?apikey=Alphabot">Cum</a>
+            <a class="collapse-item" href="api/nsfw/ero?apikey=Alphabot">Ero</a>
+            <a class="collapse-item" href="api/nsfw/femdom?apikey=Alphabot">Femdom</a>
+            <a class="collapse-item" href="api/nsfw/foot?apikey=Alphabot">Foot</a>
+            <a class="collapse-item" href="api/nsfw/gangbang?apikey=Alphabot">Gangbang</a>
+            <a class="collapse-item" href="api/nsfw/glasses?apikey=Alphabot">Glasses</a>
+            <a class="collapse-item" href="api/nsfw/hentai?apikey=Alphabot">Hentai</a>
+            <a class="collapse-item" href="api/nsfw/hentaigif?apikey=Alphabot">Hentai (GIF)</a>
+            <a class="collapse-item" href="api/nsfw/jahy?apikey=Alphabot">Jahy</a>
+            <a class="collapse-item" href="api/nsfw/masturbation?apikey=Alphabot">Masturbation</a>
+            <a class="collapse-item" href="api/nsfw/nsfwNeko?apikey=Alphabot">Neko</a>
+            <a class="collapse-item" href="api/nsfw/orgy?apikey=Alphabot">Orgy</a>
+            <a class="collapse-item" href="api/nsfw/panties?apikey=Alphabot">Panties</a>
+            <a class="collapse-item" href="api/nsfw/pussy?apikey=Alphabot">Pussy</a>
+            <a class="collapse-item" href="api/nsfw/thighs?apikey=Alphabot">Thighs</a>
+            <a class="collapse-item" href="api/nsfw/yuri?apikey=Alphabot">Yuri</a>
           </div>
         </div>
       </li>
@@ -467,9 +467,9 @@ button1:hover {
                 <div id="collapseGames" class="collapse" aria-labelledby="headingForm" data-parent="#accordionSidebar">
                     <div class="py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Games Features</h6>
-            <a class="collapse-item" href="/api/kuis/caklontong?apikey=GuraBotz">Cak Lontong</a>
-            <a class="collapse-item" href="/api/kuis/tebakgambar?apikey=GuraBotz">Tebak Gambar</a>
-            <a class="collapse-item" href="/api/kuis/family100?apikey=GuraBotz">Family 100</a>
+            <a class="collapse-item" href="/api/kuis/caklontong?apikey=Alphabot">Cak Lontong</a>
+            <a class="collapse-item" href="/api/kuis/tebakgambar?apikey=Alphabot">Tebak Gambar</a>
+            <a class="collapse-item" href="/api/kuis/family100?apikey=Alphabot">Family 100</a>
             </div>
             </div>
         </li>
@@ -481,13 +481,13 @@ button1:hover {
                 <div id="collapseGachaCewe" class="collapse" aria-labelledby="headingForm" data-parent="#accordionSidebar">
                     <div class="py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Cecan Features</h6>
-            <a class="collapse-item" href="/api/cewe/vietnam?apikey=GuraBotz">Cecan Vietnam</a>
-            <a class="collapse-item" href="/api/cewe/malaysia?apikey=GuraBotz">Cecan Malaysia</a>
-            <a class="collapse-item" href="/api/cewe/korea?apikey=GuraBotz">Cecan Korea</a>
-            <a class="collapse-item" href="/api/cewe/indonesia?apikey=GuraBotz">Cecan Indonesia</a>
-            <a class="collapse-item" href="/api/cewe/japan?apikey=GuraBotz">Cecan Japan</a>
-            <a class="collapse-item" href="/api/cewe/thailand?apikey=GuraBotz">Cecan Thailand</a>
-            <a class="collapse-item" href="/api/cewe/china?apikey=GuraBotz">Cecan China</a>
+            <a class="collapse-item" href="/api/cewe/vietnam?apikey=Alphabot">Cecan Vietnam</a>
+            <a class="collapse-item" href="/api/cewe/malaysia?apikey=Alphabot">Cecan Malaysia</a>
+            <a class="collapse-item" href="/api/cewe/korea?apikey=Alphabot">Cecan Korea</a>
+            <a class="collapse-item" href="/api/cewe/indonesia?apikey=Alphabot">Cecan Indonesia</a>
+            <a class="collapse-item" href="/api/cewe/japan?apikey=Alphabot">Cecan Japan</a>
+            <a class="collapse-item" href="/api/cewe/thailand?apikey=Alphabot">Cecan Thailand</a>
+            <a class="collapse-item" href="/api/cewe/china?apikey=Alphabot">Cecan China</a>
             </div>
             </div>
         </li>
@@ -499,10 +499,10 @@ button1:hover {
                 <div id="collapseFilmApik" class="collapse" aria-labelledby="headingForm" data-parent="#accordionSidebar">
                     <div class="py-2 collapse-inner rounded">
                         <h6 class="collapse-header">FilmApik Features</h6>
-            <a class="collapse-item" href="/api/filmapik/search?film=avenger&apikey=GuraBotz">Cari Film</a>
-            <a class="collapse-item" href="/api/filmapik/kategori?film=action&apikey=GuraBotz">Cari Kategori Film</a>
-            <a class="collapse-item" href="/api/filmapik/terbaru?apikey=GuraBotz">Film Terbaru</a>
-            <a class="collapse-item" href="/api/filmapik/play?id=142455&apikey=GuraBotz">Play Film</a>
+            <a class="collapse-item" href="/api/filmapik/search?film=avenger&apikey=Alphabot">Cari Film</a>
+            <a class="collapse-item" href="/api/filmapik/kategori?film=action&apikey=Alphabot">Cari Kategori Film</a>
+            <a class="collapse-item" href="/api/filmapik/terbaru?apikey=Alphabot">Film Terbaru</a>
+            <a class="collapse-item" href="/api/filmapik/play?id=142455&apikey=Alphabot">Play Film</a>
             </div>
             </div>
         </li>
@@ -514,13 +514,13 @@ button1:hover {
                 <div id="collapseLk21" class="collapse" aria-labelledby="headingForm" data-parent="#accordionSidebar">
                     <div class="py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Lk21 Features</h6>
-            <a class="collapse-item" href="/api/lk21/search?film=avenger&apikey=GuraBotz">Cari Film</a>
-            <a class="collapse-item" href="/api/lk21/terbaru?apikey=GuraBotz">Film Terbaru</a>
-            <a class="collapse-item" href="/api/lk21/comingsoon?apikey=GuraBotz">Film Yg Akan Datang</a>
-            <a class="collapse-item" href="/api/lk21/tvseries?apikey=GuraBotz">Series TV</a>
-            <a class="collapse-item" href="/api/lk21/year?tahun=2021&apikey=GuraBotz">Berdasarkan Tahun</a>
-            <a class="collapse-item" href="/api/lk21/country?negara=indonesia&apikey=GuraBotz">Berdasarkan Negara</a>
-            <a class="collapse-item" href="/api/lk21/genre?tipe=action&apikey=GuraBotz">Berdasarkan Genre</a>
+            <a class="collapse-item" href="/api/lk21/search?film=avenger&apikey=Alphabot">Cari Film</a>
+            <a class="collapse-item" href="/api/lk21/terbaru?apikey=Alphabot">Film Terbaru</a>
+            <a class="collapse-item" href="/api/lk21/comingsoon?apikey=Alphabot">Film Yg Akan Datang</a>
+            <a class="collapse-item" href="/api/lk21/tvseries?apikey=Alphabot">Series TV</a>
+            <a class="collapse-item" href="/api/lk21/year?tahun=2021&apikey=Alphabot">Berdasarkan Tahun</a>
+            <a class="collapse-item" href="/api/lk21/country?negara=indonesia&apikey=Alphabot">Berdasarkan Negara</a>
+            <a class="collapse-item" href="/api/lk21/genre?tipe=action&apikey=Alphabot">Berdasarkan Genre</a>
             </div>
             </div>
         </li>
@@ -533,12 +533,12 @@ button1:hover {
                     <div class="py-2 collapse-inner rounded">
                         <h6 class="collapse-header">News Features</h6>
             <a class="collapse-item" href="api/news">Jenis Berita</a>
-            <a class="collapse-item" href="api/news/cnn?type=JENIS_BERITA&apikey=GuraBotz">Cnn News</a>
-            <a class="collapse-item" href="api/news/cnbc?type=JENIS_BERITA&apikey=GuraBotz">CnBc News</a>
-            <a class="collapse-item" href="api/news/republika?type=JENIS_BERITA&apikey=GuraBotz">Republika News</a>
-            <a class="collapse-item" href="api/news/tempo?type=JENIS_BERITA&apikey=GuraBotz">Tempo News</a>
-            <a class="collapse-item" href="api/news/antara?type=JENIS_BERITA&apikey=GuraBotz">Antara News</a>
-            <a class="collapse-item" href="api/news/kumparan?type=JENIS_BERITA&apikey=GuraBotz">Kumparan News</a>
+            <a class="collapse-item" href="api/news/cnn?type=JENIS_BERITA&apikey=Alphabot">Cnn News</a>
+            <a class="collapse-item" href="api/news/cnbc?type=JENIS_BERITA&apikey=Alphabot">CnBc News</a>
+            <a class="collapse-item" href="api/news/republika?type=JENIS_BERITA&apikey=Alphabot">Republika News</a>
+            <a class="collapse-item" href="api/news/tempo?type=JENIS_BERITA&apikey=Alphabot">Tempo News</a>
+            <a class="collapse-item" href="api/news/antara?type=JENIS_BERITA&apikey=Alphabot">Antara News</a>
+            <a class="collapse-item" href="api/news/kumparan?type=JENIS_BERITA&apikey=Alphabot">Kumparan News</a>
             </div>
             </div>
         </li>
@@ -558,13 +558,13 @@ button1:hover {
 
                         <h6 class="collapse-header">Encode & Decode Features</h6>
 
-            <a class="collapse-item" href="api/base?apikey=GuraBotz&type=base64&encode=ArulGanz">Encode Base64</a>
+            <a class="collapse-item" href="api/base?apikey=Alphabot&type=base64&encode=ZeeoneGanteng">Encode Base64</a>
 
-            <a class="collapse-item" href="api/base?apikey=GuraBotz&type=base64&decode=Q2hlZW1zR2FudGVuZw==">Decode Base64</a>
+            <a class="collapse-item" href="api/base?apikey=Alphabot&type=base64&decode=Q2hlZW1zR2FudGVuZw==">Decode Base64</a>
 
-            <a class="collapse-item" href="api/base?apikey=GuraBotz&type=base32&encode=ArulGanz">Encode Base32</a>
+            <a class="collapse-item" href="api/base?apikey=Alphabot&type=base32&encode=ZeeoneGanteng">Encode Base32</a>
 
-            <a class="collapse-item" href="api/base?apikey=GuraBotz&type=base32&decode=INUGKZLNONDWC3TUMVXGO===">Decode Base32</a>
+            <a class="collapse-item" href="api/base?apikey=Alphabot&type=base32&decode=INUGKZLNONDWC3TUMVXGO===">Decode Base32</a>
 
             </div>
 
@@ -580,26 +580,26 @@ button1:hover {
         <div id="collapseother" class="collapse" aria-labelledby="headingother" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Other Menu</h6>
-            <a class="collapse-item" href="api/nulis?text=arulganz&apikey=GuraBotz">Nulis Buku</a>
-            <a class="collapse-item" href="api/infonpm?query=Zhirrr-api&hostname=Zhirrr&apikey=GuraBotz">Info NPM</a>
-            <a class="collapse-item" href="api/infogempa?apikey=GuraBotz">Info Gempa Terkini</a>
-            <a class="collapse-item" href="api/infocuaca?provinsi=jakarta&apikey=GuraBotz">Info Cuaca Indonesia</a>
-            <a class="collapse-item" href="api/infocuaca/dunia?apikey=GuraBotz">Info Cuaca Dunia</a>
-            <a class="collapse-item" href="api/infocuaca/bandara?apikey=GuraBotz">Info Cuaca Bandara</a>
-            <a class="collapse-item" href="api/infotsunami?apikey=GuraBotz">Info Tsunami</a>
-            <a class="collapse-item" href="api/covidindo?apikey=GuraBotz">Covid Indo</a>
-            <a class="collapse-item" href="api/covidworld?apikey=GuraBotz">Covid World</a>
-            <a class="collapse-item" href="api/short/tiny?url=google.com&apikey=GuraBotz">Short Link</a>
-            <a class="collapse-item" href="api/wikipedia?search=jembatan&apikey=GuraBotz">Wikipedia</a>
-            <a class="collapse-item" href="api/drakorasia?search=tale&apikey=GuraBotz">Drakor Asia</a>
-            <a class="collapse-item" href="api/fakedata?country=en&apikey=GuraBotz">Fake Data</a>
-            <a class="collapse-item" href="api/hilih?kata=aku kan ganteng banget&apikey=GuraBotz">Kata Hilih</a>
-            <a class="collapse-item" href="api/liriklagu?lagu=sayang&apikey=GuraBotz">Lirik Lagu</a>
-            <a class="collapse-item" href="api/chordlagu?lagu=sayang&apikey=GuraBotz">Chord Lagu</a>
-            <a class="collapse-item" href="api/kbbi?kata=pohon&apikey=GuraBotz">KBBI</a>
-            <a class="collapse-item" href="api/kodepos?kota=jakarta&apikey=GuraBotz">Kode Pos</a>
-            <a class="collapse-item" href="api/translate?kata=hi&apikey=GuraBotz">Translate</a>
-            <a class="collapse-item" href="api/gabut?apikey=GuraBotz">Gabut</a>
+            <a class="collapse-item" href="api/nulis?text=zeeone&apikey=Alphabot">Nulis Buku</a>
+            <a class="collapse-item" href="api/infonpm?query=Zhirrr-api&hostname=Zhirrr&apikey=Alphabot">Info NPM</a>
+            <a class="collapse-item" href="api/infogempa?apikey=Alphabot">Info Gempa Terkini</a>
+            <a class="collapse-item" href="api/infocuaca?provinsi=jakarta&apikey=Alphabot">Info Cuaca Indonesia</a>
+            <a class="collapse-item" href="api/infocuaca/dunia?apikey=Alphabot">Info Cuaca Dunia</a>
+            <a class="collapse-item" href="api/infocuaca/bandara?apikey=Alphabot">Info Cuaca Bandara</a>
+            <a class="collapse-item" href="api/infotsunami?apikey=Alphabot">Info Tsunami</a>
+            <a class="collapse-item" href="api/covidindo?apikey=Alphabot">Covid Indo</a>
+            <a class="collapse-item" href="api/covidworld?apikey=Alphabot">Covid World</a>
+            <a class="collapse-item" href="api/short/tiny?url=google.com&apikey=Alphabot">Short Link</a>
+            <a class="collapse-item" href="api/wikipedia?search=jembatan&apikey=Alphabot">Wikipedia</a>
+            <a class="collapse-item" href="api/drakorasia?search=tale&apikey=Alphabot">Drakor Asia</a>
+            <a class="collapse-item" href="api/fakedata?country=en&apikey=Alphabot">Fake Data</a>
+            <a class="collapse-item" href="api/hilih?kata=aku kan ganteng banget&apikey=Alphabot">Kata Hilih</a>
+            <a class="collapse-item" href="api/liriklagu?lagu=sayang&apikey=Alphabot">Lirik Lagu</a>
+            <a class="collapse-item" href="api/chordlagu?lagu=sayang&apikey=Alphabot">Chord Lagu</a>
+            <a class="collapse-item" href="api/kbbi?kata=pohon&apikey=Alphabot">KBBI</a>
+            <a class="collapse-item" href="api/kodepos?kota=jakarta&apikey=Alphabot">Kode Pos</a>
+            <a class="collapse-item" href="api/translate?kata=hi&apikey=Alphabot">Translate</a>
+            <a class="collapse-item" href="api/gabut?apikey=Alphabot">Gabut</a>
           </div>
         </div>
       </li>
@@ -623,12 +623,12 @@ button1:hover {
       </li>
     
       <li class="nav-item">
-            <a class="nav-link collapsed" href="https://instagram.com/_daaa_1">
+            <a class="nav-link collapsed" href="https://instagram.com/zeeoneofc">
             <i class="fab fa-fw fa-instagram"></i>
                     <span>Instagram</span>
             </a>
           <li class="nav-item">
-            <a class="nav-link collapsed" href="https://t.me/Its_Me_Gal">
+            <a class="nav-link collapsed" href="https://t.me/zeeoneee">
             <i class="fab fa-fw fa-telegram"></i>
                     <span>Telegram</span>
             </a>
@@ -640,7 +640,7 @@ button1:hover {
             </a>
       </li>
       <li class="nav-item">
-            <a class="nav-link collapsed" href="https://github.com/BotWhatsapp12">
+            <a class="nav-link collapsed" href="https://github.com/zeeoneofc">
             <i class="fab fa-fw fa-github"></i>
                     <span>Github</span>
             </a>
@@ -652,7 +652,7 @@ button1:hover {
             </a>
       </li>
       <hr class="sidebar-divider">
-      <div class="version"><b>Made With ♥️ By ArulGanz</b></div>
+      <div class="version"><b>Made With ♥️ By Zeeone</b></div>
     </ul>
     <!-- Sidebar -->
     <div id="content-wrapper" class="d-flex flex-column">
@@ -750,7 +750,7 @@ button1:hover {
                   <div class="font-weight-bold">
                     <div class="text-truncate">Beib❣️ Main Yuk ！！！.
                      </div>
-                    <div class="small text-gray-500">arulganz · 2s</div>
+                    <div class="small text-gray-500">zeeone · 2s</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -811,7 +811,7 @@ button1:hover {
                     </div>
                   </div>
                 </a>
-                <a class="dropdown-item text-center small text-gray-500" href="https://www.instagram.com/_daaa_1">View All Information</a>
+                <a class="dropdown-item text-center small text-gray-500" href="https://www.instagram.com/zeeoneofc">View All Information</a>
               </div>
             </li>
             <div class="topbar-divider d-none d-sm-block"></div>
@@ -819,23 +819,23 @@ button1:hover {
               <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown"
                 aria-haspopup="true" aria-expanded="false">
                 <img class="img-profile rounded-circle" src="img/logo.jpg" style="max-width: 60px">
-                <span class="ml-2 d-none d-lg-inline text-white small"> ᴹᴿ᭄ArulGanzㄙ </span>
+                <span class="ml-2 d-none d-lg-inline text-white small"> ᴹᴿ᭄zeeoneㄙ </span>
               </a>
               <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
                 <a class="dropdown-item" href="https://wa.me/message/JBGU4J2DVYEDK1">
                   <i class="fab fa-fw fa-whatsapp"></i>
                   Whatsapp
                 </a>
-                <a class="dropdown-item" href="https://t.me/Its_Me_Gal">
+                <a class="dropdown-item" href="https://t.me/zeeoneofc">
                   <i class="fab fa-fw fa-telegram"></i>
                   Telegram
                 </a>
-                <a class="dropdown-item" href="https://www.instagram.com/_daaa_1">
+                <a class="dropdown-item" href="https://www.instagram.com/zeeoneofc">
                   <i class="fab fa-fw fa-instagram"></i>
                   Instagram
                 </a>
                 <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="https://api-GuraBotz.herokuapp.com/">
+                <a class="dropdown-item" href="https://api-alphabot.herokuapp.com/">
                   <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
                   Logout
                 </a>
@@ -1129,7 +1129,7 @@ button1:hover {
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
             <span>Copyright &copy; 2021 -
-              <b><a href="https://instagram.com/zee.oneee" target="_blank">GuraBotz</a> .Allright reserved</b>
+              <b><a href="https://instagram.com/zee.oneee" target="_blank">Alphabot</a> .Allright reserved</b>
             </span>
           </div>
         </div>
@@ -1153,7 +1153,7 @@ button1:hover {
 <script>
   function getvisitor(){
               var xhr = new XMLHttpRequest();
-              var url = 'https://api.countapi.xyz/hit/api-GuraBotz.herokuapp.com/visits';
+              var url = 'https://api.countapi.xyz/hit/api-alphabot.herokuapp.com/visits';
               xhr.onloadend = function(){
              data = JSON.parse(this.responseText);
   document.getElementById("visitor").textContent = data.value
@@ -1266,7 +1266,7 @@ const check_match = () => {
 const check_for_winner = () => {
   let res = check_match()
   if (res == player) {
-    winner.innerText = "You Win Apikey: GuraBotz";
+    winner.innerText = "You Win Apikey: Alphabot";
     winner.classList.add("playerWin");
     board_full = true
   } else if (res == computer) {
